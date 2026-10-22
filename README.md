@@ -53,5 +53,3 @@ If you use these scripts, please cite:
 ## License
 
 Copyright (C) 2026 Vivek Junghare, Hazra Lab, IIT Roorkee. Released under the **GNU General Public License v3.0** (see [LICENSE](LICENSE)).
-
-Two files contain PyMOL and R. L. Campbell code and keep their original notices; see [documentation/third_party.md](documentation/third_party.md).
