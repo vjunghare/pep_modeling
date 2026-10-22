@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.vscode/
+
+# generated structures and images
+pep_struc/
+*_minimized.pdb
+*_capped.pdb
+*.png
+
+# GROMACS output
+*.gro
+*.tpr
+*.xtc
+*.trr
+*.edr
+*.cpt
+*.log
+*.xvg
+topol.top
+posre*.itp
+\#*\#
