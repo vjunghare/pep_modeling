@@ -43,12 +43,6 @@ What each script does, with inputs and outputs: [documentation/scripts.md](docum
 - **PyMOL** and **UCSF Chimera** 
 - **GROMACS**, only for `md/`
 
-## How to cite
-
-If you use these scripts, please cite:
-
-1. Kalyan, G.; Junghare, V.; Khan, M. F.; Pal, S.; Bhattacharya, S.; Guha, S.; Majumder, K.; Chakrabarty, S.; Hazra, S. Anti-hypertensive Peptide Predictor: A Machine Learning-Empowered Web Server for Prediction of Food-Derived Peptides with Potential Angiotensin-Converting Enzyme-I Inhibitory Activity. *J. Agric. Food Chem.* **2021**, 69, 14995–15004. https://doi.org/10.1021/acs.jafc.1c04555
-2. Kalyan, G.; Junghare, V.; Bhattacharya, S.; Hazra, S. Understanding structure-based dynamic interactions of antihypertensive peptides extracted from food sources. *J. Biomol. Struct. Dyn.* **2021**, 39(2), 635–649. https://doi.org/10.1080/07391102.2020.1715836
 
 ## License
 
